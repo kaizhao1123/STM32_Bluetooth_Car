@@ -1,0 +1,7 @@
+Motor.c:15:6:Motor_12_Config	16	static
+Motor.c:30:6:Motor_1_STOP	8	static
+Motor.c:36:6:Motor_1_PRun	8	static
+Motor.c:42:6:Motor_1_NRun	8	static
+Motor.c:48:6:Motor_2_STOP	8	static
+Motor.c:54:6:Motor_2_PRun	8	static
+Motor.c:60:6:Motor_2_NRun	8	static

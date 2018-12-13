@@ -1,0 +1,3 @@
+LEDTest.c:9:6:LEDInit	8	static
+LEDTest.c:24:6:LEDOn	16	static
+LEDTest.c:29:6:LEDOff	16	static

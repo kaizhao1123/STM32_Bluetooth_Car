@@ -1,0 +1,9 @@
+core_cm4.h:1037:22:NVIC_SetPriorityGrouping	24	static
+main.c:40:5:main	24	static
+main.c:100:13:vExampleTimerCallback	16	static
+main.c:140:13:BluetoothTask	16	static
+main.c:152:6:vApplicationTickHook	16	static
+main.c:168:6:vApplicationMallocFailedHook	4	static
+main.c:174:6:vApplicationStackOverflowHook	16	static
+main.c:182:6:vApplicationIdleHook	16	static
+main.c:189:13:prvSetupHardware	8	static
